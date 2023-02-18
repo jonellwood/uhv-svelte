@@ -3,7 +3,9 @@
 	import MoonIcon from 'heroicons-svelte/solid/MoonIcon.svelte';
 	import SunIcon from 'heroicons-svelte/solid/SunIcon.svelte';
 	import { browser } from '$app/environment';
-	let isDarkMode = browser ? Boolean(document.documentElement.classList.contains('dark')) : true;
+	let isDarkMode = browser
+		? Boolean(document.documentElement.classList.contains('dark'))
+		: true;
 
 	function disableTransitionsTemporarily() {
 		document.documentElement.classList.add('[&_*]:transition-none');
@@ -14,11 +16,11 @@
 </script>
 
 <div class="nav">
-	<p>Blog</p>
+	<p><a href="/posts">Blog</a></p>
 	<p>Weight</p>
-	<Logo />
+	<a href="/"><Logo /></a>
+	<p><a href="/meals">Eating</a></p>
 	<p>Activity</p>
-	<p>Eating</p>
 	<p>
 		<button
 			type="button"

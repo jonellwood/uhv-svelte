@@ -16,12 +16,13 @@
 
 <div class="flex flex-col flex-grow">
 	<header class="pt-4">
-		<h1 class="text-2x1 font-bold tracking-tight sm:text-4x1">
-			Writing about my journey into healthier eating choices and whatever else I might feel like I
-			suppose
+		<h1 class="text-4x1 font-bold tracking-tight sm:text-2x1">
+			Writing about my journey into healthier eating choices and whatever else I
+			might feel like I suppose
 		</h1>
 		<p class="mt-6">
-			All of my incohearent ramblings for the world to see.... Um maybe this was a bad idea...
+			All of my incohearent ramblings for the world to see.... Um maybe this was
+			a bad idea...
 		</p>
 	</header>
 

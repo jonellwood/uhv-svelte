@@ -11,9 +11,9 @@ const config = {
 		adapter: adapter(),
 
 		prerender: {
-			entries: ['*', '/sitemap.xml', '/rss.xml']
-		}
-	}
+			entries: ['*', '/sitemap.xml', '/rss.xml'],
+		},
+	},
 };
 
 export default config;

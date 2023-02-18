@@ -1,0 +1,29 @@
+{
+	"/": [
+		"src/routes/+page.server.js",
+		"src/routes/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/activity": [
+		"src/routes/+layout.js"
+	],
+	"/meals/[[page]]": [
+		"src/routes/meals/[[page]]/+page.server.js",
+		"src/routes/+layout.js"
+	],
+	"/posts/[[page]]": [
+		"src/routes/posts/[[page]]/+page.server.js",
+		"src/routes/+layout.js"
+	],
+	"/post/[slug]": [
+		"src/routes/post/[slug]/+page.js",
+		"src/routes/post/[slug]/+page.server.js",
+		"src/routes/+layout.js"
+	],
+	"/rss.xml": [
+		"src/routes/rss.xml/+server.js"
+	],
+	"/sitemap.xml": [
+		"src/routes/sitemap.xml/+server.js"
+	]
+}
