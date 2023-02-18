@@ -1,0 +1,42 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import './prism.css';
+@import 'tailwindcss/utilities';
+
+@layer base {
+	body {
+		@apply text-zinc-600 dark:text-zinc-400;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		@apply text-zinc-900 dark:text-zinc-200;
+	}
+
+	hr {
+		@apply border-zinc-100 dark:border-zinc-700/25;
+	}
+}
+
+@font-face {
+	font-family: Rubik;
+	src: url('../fonts/Rubik/Rubik-VariableFont_wght.ttf');
+}
+
+/* html {
+	margin: 0;
+	padding: 0;
+} */
+body {
+	font-family: Rubik;
+	/* text-transform: uppercase; */
+}
+a {
+	text-decoration: none;
+	color: inherit;
+	cursor: pointer;
+}
