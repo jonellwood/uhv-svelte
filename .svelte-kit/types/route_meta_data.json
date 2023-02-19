@@ -28,5 +28,9 @@
 	],
 	"/weight": [
 		"src/routes/+layout.js"
+	],
+	"/workouts": [
+		"src/routes/workouts/+page.js",
+		"src/routes/+layout.js"
 	]
 }

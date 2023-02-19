@@ -20,7 +20,7 @@
 	<p><a href="/weight">Weight</a></p>
 	<a href="/"><Logo /></a>
 	<p><a href="/meals">Eating</a></p>
-	<p><a href="/activity">Activity</a></p>
+	<p><a href="/workouts">Activity</a></p>
 	<p>
 		<button
 			type="button"

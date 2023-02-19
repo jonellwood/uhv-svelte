@@ -1,0 +1,4 @@
+{
+	"eslint.workingDirectories": ["./web", "./studio", "./backend"],
+	"cSpell.words": ["datetime", "endtime"]
+}

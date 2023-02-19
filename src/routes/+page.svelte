@@ -30,15 +30,21 @@
 			</div>
 		</section>
 
-		<p class="text-base text-lightgreen-600 dark:text-lightgreen-400 mt-10 mb-10">
+		<p
+			class="text-base text-lightgreen-600 dark:text-lightgreen-400 mt-10 mb-10"
+		>
 			{bio}
 		</p>
 		<section class="w-full">
 			<div class="flex items-center justify-between gap-4 mb-8">
-				<h2 class="text-sm font-medium sm:text-base text-green-500 dark:text-green-400">
+				<h2
+					class="text-sm font-medium sm:text-base text-green-500 dark:text-green-400"
+				>
 					Recently Published
 				</h2>
-				<a href="/posts" class="flex items-center gap-1 text-sm font-medium text-teal-500"
+				<a
+					href="/posts"
+					class="flex items-center gap-1 text-sm font-medium text-teal-500"
 					>View All <ArrowRight class="w-4 h-4" /></a
 				>
 			</div>
