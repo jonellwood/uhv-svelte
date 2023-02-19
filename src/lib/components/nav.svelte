@@ -17,10 +17,10 @@
 
 <div class="nav">
 	<p><a href="/posts">Blog</a></p>
-	<p>Weight</p>
+	<p><a href="/weight">Weight</a></p>
 	<a href="/"><Logo /></a>
 	<p><a href="/meals">Eating</a></p>
-	<p>Activity</p>
+	<p><a href="/activity">Activity</a></p>
 	<p>
 		<button
 			type="button"

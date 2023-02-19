@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="120.0024518996477" durationUnit="min" sourceVersion="3.0" creationDate="2016-10-11 16:48:50 -0500" startDate="2016-10-11 14:48:38 -0500" endDate="2016-10-11 16:48:38 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="71 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="4900 %"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2016-10-11 14:48:38 -0500" endDate="2016-10-11 16:48:38 -0500" sum="0" unit="count"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2016-10-11 14:48:38 -0500" endDate="2016-10-11 16:48:38 -0500" sum="212.925" unit="Cal"/>
+  <WorkoutRoute sourceName="Jonathan’s iPhone" sourceVersion="10.0.2" creationDate="2016-10-13 08:16:45 -0500" startDate="2016-10-11 14:51:56 -0500" endDate="2016-10-11 16:48:41 -0500">
+   <FileReference path="/workout-routes/route_2016-10-11_5.48pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="71 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="4900 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeRunning" duration="46.28911565045516" durationUnit="min" sourceName="Jonathan’s AppleWatch" sourceVersion="3.1.3" creationDate="2017-02-14 19:54:28 -0500" startDate="2017-02-14 19:08:02 -0500" endDate="2017-02-14 19:54:19 -0500">
+  <WorkoutEvent type="HKWorkoutEventTypeMarker" date="2017-02-14 19:54:11 -0500"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2017-02-14 19:08:02 -0500" endDate="2017-02-14 19:54:19 -0500" sum="0" unit="count"/>
+<WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-02-14 19:08:02 -0500" endDate="2017-02-14 19:54:19 -0500" sum="490.061" unit="Cal"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="30.79974186718464" durationUnit="min" sourceVersion="3.1.3" creationDate="2017-04-20 19:34:19 -0500" startDate="2017-04-20 19:03:26 -0500" endDate="2017-04-20 19:34:14 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="74 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7000 %"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMarker" date="2017-04-20 19:34:05 -0500"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2017-04-20 19:03:26 -0500" endDate="2017-04-20 19:34:14 -0500" sum="0" unit="count"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-04-20 19:03:26 -0500" endDate="2017-04-20 19:34:14 -0500" sum="109.876" unit="Cal"/>
+  <WorkoutRoute sourceName="Jonathan’s iPhone" sourceVersion="10.3.1" creationDate="2017-04-20 19:36:14 -0500" startDate="2017-04-20 19:03:35 -0500" endDate="2017-04-20 19:34:15 -0500">
+   <FileReference path="/workout-routes/route_2017-04-20_8.34pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="74 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7000 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="51.81149560014407" durationUnit="min" sourceVersion="3.2.2" creationDate="2017-06-06 14:41:34 -0500" startDate="2017-06-06 11:11:39 -0500" endDate="2017-06-06 14:41:29 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="79 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="8200 %"/>
+  <WorkoutEvent type="HKWorkoutEventTypePause" date="2017-06-06 11:58:44 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeResume" date="2017-06-06 12:30:05 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypePause" date="2017-06-06 12:34:49 -0500"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2017-06-06 11:11:39 -0500" endDate="2017-06-06 14:41:29 -0500" sum="0" unit="count"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-06-06 11:11:39 -0500" endDate="2017-06-06 14:41:29 -0500" sum="111.154" unit="Cal"/>
+  <WorkoutRoute sourceName="Jonathan’s iPhone" sourceVersion="10.3.1" creationDate="2017-06-06 14:57:27 -0500" startDate="2017-06-06 11:11:44 -0500" endDate="2017-06-06 12:34:48 -0500">
+   <FileReference path="/workout-routes/route_2017-06-06_1.34pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="79 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="8200 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="40.31662356654803" durationUnit="min" sourceVersion="3.2.2" creationDate="2017-06-09 15:36:54 -0500" startDate="2017-06-09 14:10:10 -0500" endDate="2017-06-09 15:36:49 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="84 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5200 %"/>
+  <WorkoutEvent type="HKWorkoutEventTypePause" date="2017-06-09 14:50:29 -0500"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2017-06-09 14:10:10 -0500" endDate="2017-06-09 15:36:49 -0500" sum="0" unit="count"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-06-09 14:10:10 -0500" endDate="2017-06-09 15:36:49 -0500" sum="97.129" unit="Cal"/>
+  <WorkoutRoute sourceName="Jonathan’s iPhone" sourceVersion="10.3.1" creationDate="2017-06-09 16:04:32 -0500" startDate="2017-06-09 14:10:12 -0500" endDate="2017-06-09 14:50:29 -0500">
+   <FileReference path="/workout-routes/route_2017-06-09_3.50pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="84 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5200 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="33.40652330021064" durationUnit="min" sourceVersion="3.2.2" creationDate="2017-06-29 17:09:44 -0500" startDate="2017-06-29 16:36:13 -0500" endDate="2017-06-29 17:09:39 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="86 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5700 %"/>
+  <WorkoutEvent type="HKWorkoutEventTypePause" date="2017-06-29 17:09:37 -0500"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2017-06-29 16:36:13 -0500" endDate="2017-06-29 17:09:39 -0500" sum="0" unit="count"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-06-29 16:36:13 -0500" endDate="2017-06-29 17:09:39 -0500" sum="130.863" unit="Cal"/>
+  <WorkoutRoute sourceName="Jonathan’s iPhone" sourceVersion="10.3.2" creationDate="2017-07-04 09:05:04 -0500" startDate="2017-06-29 16:36:15 -0500" endDate="2017-06-29 17:09:37 -0500">
+   <FileReference path="/workout-routes/route_2017-06-29_6.09pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="86 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5700 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="22.09244266649087" durationUnit="min" sourceVersion="3.2.2" creationDate="2017-07-04 09:04:49 -0500" startDate="2017-07-04 08:42:34 -0500" endDate="2017-07-04 09:04:40 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="83 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7300 %"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2017-07-04 08:42:34 -0500" endDate="2017-07-04 09:04:40 -0500" sum="0" unit="count"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-07-04 08:42:34 -0500" endDate="2017-07-04 09:04:40 -0500" sum="81.932" unit="Cal"/>
+  <WorkoutRoute sourceName="Jonathan’s iPhone" sourceVersion="10.3.2" creationDate="2017-07-04 09:05:03 -0500" startDate="2017-07-04 08:42:38 -0500" endDate="2017-07-04 09:04:40 -0500">
+   <FileReference path="/workout-routes/route_2017-07-04_10.04am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="83 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7300 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="135.8079710503419" durationUnit="min" sourceVersion="3.2.2" creationDate="2017-07-09 12:09:26 -0500" startDate="2017-07-09 09:53:30 -0500" endDate="2017-07-09 12:09:19 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="86 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="6300 %"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2017-07-09 09:53:30 -0500" endDate="2017-07-09 12:09:19 -0500" sum="0" unit="count"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-07-09 09:53:30 -0500" endDate="2017-07-09 12:09:19 -0500" sum="303.119" unit="Cal"/>
+  <WorkoutRoute sourceName="Jonathan’s iPhone" sourceVersion="10.3.2" creationDate="2017-07-09 12:24:35 -0500" startDate="2017-07-09 09:53:39 -0500" endDate="2017-07-09 12:09:21 -0500">
+   <FileReference path="/workout-routes/route_2017-07-09_1.09pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="86 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="6300 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="186.232370899121" durationUnit="min" sourceVersion="3.2.3" creationDate="2017-08-13 10:36:12 -0500" startDate="2017-08-13 07:29:48 -0500" endDate="2017-08-13 10:36:01 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="90 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="6700 %"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2017-08-13 07:29:48 -0500" endDate="2017-08-13 10:36:01 -0500" sum="0" unit="count"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-08-13 07:29:48 -0500" endDate="2017-08-13 10:36:01 -0500" sum="437.134" unit="Cal"/>
+  <WorkoutRoute sourceName="Jonathan’s iPhone" sourceVersion="10.3.3" creationDate="2017-08-13 12:20:15 -0500" startDate="2017-08-13 07:29:53 -0500" endDate="2017-08-13 10:36:05 -0500">
+   <FileReference path="/workout-routes/route_2017-08-13_11.36am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="90 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="6700 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="54.99573861658573" durationUnit="min" sourceVersion="3.2.3" creationDate="2017-09-09 17:58:45 -0500" startDate="2017-09-09 17:03:39 -0500" endDate="2017-09-09 17:58:39 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="76 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5000 %"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierSwimmingStrokeCount" startDate="2017-09-09 17:03:39 -0500" endDate="2017-09-09 17:58:39 -0500" sum="0" unit="count"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-09-09 17:03:39 -0500" endDate="2017-09-09 17:58:39 -0500" sum="182.109" unit="Cal"/>
+  <WorkoutRoute sourceName="Jonathan’s iPhone" sourceVersion="10.3.3" creationDate="2017-09-09 17:59:04 -0500" startDate="2017-09-09 17:03:42 -0500" endDate="2017-09-09 17:58:43 -0500">
+   <FileReference path="/workout-routes/route_2017-09-09_6.58pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="76 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5000 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="89.49913215041161" durationUnit="min" sourceVersion="4.0" creationDate="2017-09-23 18:49:31 -0500" startDate="2017-09-23 17:19:55 -0500" endDate="2017-09-23 18:49:25 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="78 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7100 %"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-09-23 17:19:55 -0500" endDate="2017-09-23 18:49:25 -0500" sum="419.726" unit="Cal"/>
+  <WorkoutRoute sourceVersion="11.0" creationDate="2017-09-24 18:37:44 -0500" startDate="2017-09-23 17:20:22 -0500" endDate="2017-09-23 18:49:22 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="B6D12724-C7BD-4C89-BFD4-DB0EF7E415DD"/>
+   <FileReference path="/workout-routes/route_2017-09-23_7.49pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="78 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7100 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="162.4837262839079" durationUnit="min" sourceVersion="4.0" creationDate="2017-10-01 11:03:13 -0500" startDate="2017-10-01 08:20:34 -0500" endDate="2017-10-01 11:03:03 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5500 %"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2017-10-01 08:20:34 -0500" endDate="2017-10-01 11:03:03 -0500" sum="427.035" unit="Cal"/>
+ <WorkoutRoute sourceVersion="11.0.1" creationDate="2017-10-01 11:09:35 -0500" startDate="2017-10-01 08:20:47 -0500" endDate="2017-10-01 11:02:57 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="F79A6C3F-2441-46EF-A70B-891C5E2B3DD9"/>
+   <FileReference path="/workout-routes/route_2017-10-01_12.02pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5500 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="48.51048426628113" durationUnit="min" sourceVersion="4.2.3" creationDate="2018-02-28 10:52:06 -0500" startDate="2018-02-28 10:03:26 -0500" endDate="2018-02-28 10:51:57 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="61 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7100 %"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2018-02-28 10:03:26 -0500" endDate="2018-02-28 10:51:57 -0500" sum="63.542" unit="Cal"/>
+  <WorkoutRoute sourceVersion="11.2.6" creationDate="2018-02-28 11:20:15 -0500" startDate="2018-02-28 10:12:25 -0500" endDate="2018-02-28 10:51:51 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="123DF7E8-50E3-4169-A09B-B2C83E694EB9"/>
+   <FileReference path="/workout-routes/route_2018-02-28_10.51am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="61 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7100 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeRunning" duration="34.65031363566717" durationUnit="min" sourceVersion="4.3" creationDate="2018-05-22 02:54:13 -0500" startDate="2018-05-22 02:19:18 -0500" endDate="2018-05-22 02:54:08 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9900 %"/>
+  <WorkoutEvent type="HKWorkoutEventTypePause" date="2018-05-22 02:51:35 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeResume" date="2018-05-22 02:51:46 -0500"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2018-05-22 02:19:18 -0500" endDate="2018-05-22 02:54:08 -0500" sum="248.218" unit="Cal"/>
+  <WorkoutRoute sourceVersion="11.3.1" creationDate="2018-05-22 02:54:58 -0500" startDate="2018-05-22 02:19:31 -0500" endDate="2018-05-22 02:54:07 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="399F5C01-C4AA-488B-9184-FC1B09D64459"/>
+   <FileReference path="/workout-routes/route_2018-05-22_3.54am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9900 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="12.98634738326073" durationUnit="min" sourceVersion="4.3" creationDate="2018-05-22 03:07:37 -0500" startDate="2018-05-22 02:54:33 -0500" endDate="2018-05-22 03:07:32 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9900 %"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2018-05-22 02:54:33 -0500" endDate="2018-05-22 03:07:32 -0500" sum="29.94" unit="Cal"/>
+  <WorkoutRoute sourceVersion="11.3.1" creationDate="2018-05-22 03:40:15 -0500" startDate="2018-05-22 02:54:41 -0500" endDate="2018-05-22 03:07:31 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="711A2127-7B02-4CB9-9C4F-2DD26E692544"/>
+   <FileReference path="/workout-routes/route_2018-05-22_4.07am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9900 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeRunning" duration="19.20195544958115" durationUnit="min" sourceVersion="5.0.1" device="&lt;&lt;HKDevice: 0x2810f1090&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,4, software:5.0.1&gt;" creationDate="2018-11-07 03:00:15 -0500" startDate="2018-11-07 02:41:02 -0500" endDate="2018-11-07 03:00:14 -0500">
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9700 %"/>
+  <MetadataEntry key="HKElevationAscended" value="459 cm"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2018-11-07 02:41:02 -0500" duration="6.056793753306071" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2018-11-07 02:41:02 -0500" duration="9.93325759569804" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2018-11-07 02:41:02 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2018-11-07 02:41:03 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2018-11-07 02:47:05 -0500" duration="6.261982413132985" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2018-11-07 02:50:58 -0500" duration="9.030858522653579" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2018-11-07 02:53:21 -0500" duration="5.665575003623962" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2018-11-07 02:59:01 -0500" duration="1.150171589851379" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2018-11-07 03:00:00 -0500" duration="0.1704066415627797" durationUnit="min"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2018-11-07 02:41:02 -0500" endDate="2018-11-07 03:00:14 -0500" sum="185.346" unit="Cal"/>
+  <WorkoutRoute sourceVersion="12.1.1" creationDate="2018-11-07 03:02:17 -0500" startDate="2018-11-07 02:41:01 -0500" endDate="2018-11-07 03:00:13 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="E0E186E6-D3D3-4887-9814-0AFF48913011"/>
+   <FileReference path="/workout-routes/route_2018-11-07_3.00am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9700 %"/>
+  <MetadataEntry key="HKElevationAscended" value="459 cm"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="7.23392918308576" durationUnit="min" sourceVersion="5.0.1" device="&lt;&lt;HKDevice: 0x2810f1090&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,4, software:5.0.1&gt;" creationDate="2018-11-07 03:07:42 -0500" startDate="2018-11-07 03:00:27 -0500" endDate="2018-11-07 03:07:41 -0500">
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9600 %"/>
+  <MetadataEntry key="HKElevationAscended" value="624 cm"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2018-11-07 03:00:27 -0500" endDate="2018-11-07 03:07:41 -0500" sum="42.47" unit="Cal"/>
+  <WorkoutRoute sourceVersion="12.1.1" creationDate="2018-11-07 03:26:38 -0500" startDate="2018-11-07 03:00:26 -0500" endDate="2018-11-07 03:07:40 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="158AB755-90B8-42C8-895C-CD6416526955"/>
+   <FileReference path="/workout-routes/route_2018-11-07_3.07am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <MetadataEntry key="HKWeatherTemperature" value="70 degF"/>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9600 %"/>
+  <MetadataEntry key="HKElevationAscended" value="624 cm"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeRunning" duration="23.20312908291817" durationUnit="min" sourceVersion="5.1.2" device="&lt;&lt;HKDevice: 0x2810f0b40&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,4, software:5.1.2&gt;" creationDate="2019-01-16 05:26:46 -0500" startDate="2019-01-16 05:03:33 -0500" endDate="2019-01-16 05:26:45 -0500">
+  <MetadataEntry key="HKIndoorWorkout" value="1"/>
+  <MetadataEntry key="HKWeatherTemperature" value="46 degF"/>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherHumidity" value="8700 %"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-16 05:03:33 -0500" duration="8.514791985352835" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-16 05:03:33 -0500" duration="12.98745389779409" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-16 05:03:33 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2019-01-16 05:03:50 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-16 05:03:59 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2019-01-16 05:04:07 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-16 05:04:21 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2019-01-16 05:05:17 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-16 05:12:03 -0500" duration="7.326655991872152" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-16 05:16:32 -0500" duration="10.09561916788419" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-16 05:19:23 -0500" duration="7.241625088453293" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-16 05:25:34 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2019-01-16 05:26:04 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-16 05:26:17 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2019-01-16 05:26:32 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-16 05:26:41 -0500"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2019-01-16 05:03:33 -0500" endDate="2019-01-16 05:26:45 -0500" sum="170.652" unit="Cal"/>
+  <MetadataEntry key="HKIndoorWorkout" value="1"/>
+  <MetadataEntry key="HKWeatherTemperature" value="46 degF"/>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherHumidity" value="8700 %"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeRunning" duration="39.86398416558902" durationUnit="min" sourceVersion="5.1.2" device="&lt;&lt;HKDevice: 0x2810f0b40&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,4, software:5.1.2&gt;" creationDate="2019-01-22 04:02:23 -0500" startDate="2019-01-22 03:22:30 -0500" endDate="2019-01-22 04:02:22 -0500">
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <MetadataEntry key="HKWeatherTemperature" value="30 degF"/>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherHumidity" value="3800 %"/>
+  <MetadataEntry key="HKElevationAscended" value="708 cm"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:22:30 -0500" duration="6.104763811826706" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:22:30 -0500" duration="9.681826015313467" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-22 03:22:30 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2019-01-22 03:22:34 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:28:36 -0500" duration="5.961589195330938" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:32:11 -0500" duration="9.921024543046951" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:34:34 -0500" duration="6.259111140171687" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:40:49 -0500" duration="6.131377911567688" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:42:06 -0500" duration="10.04878889123599" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:46:57 -0500" duration="6.216753524541855" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:52:09 -0500" duration="10.0934229294459" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:53:10 -0500" duration="6.21703861951828" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 03:59:23 -0500" duration="2.897003064552943" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-22 04:02:15 -0500" duration="0.04257488846778869" durationUnit="min"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2019-01-22 03:22:30 -0500" endDate="2019-01-22 04:02:22 -0500" sum="369.583" unit="Cal"/>
+  <WorkoutRoute sourceVersion="12.1.2" creationDate="2019-01-22 04:11:10 -0500" startDate="2019-01-22 03:22:50 -0500" endDate="2019-01-22 04:02:21 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="81B5D4E7-B103-42CB-86BC-7B7E77A173C2"/>
+   <FileReference path="/workout-routes/route_2019-01-22_4.02am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <MetadataEntry key="HKWeatherTemperature" value="30 degF"/>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherHumidity" value="3800 %"/>
+  <MetadataEntry key="HKElevationAscended" value="708 cm"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="8.614614349603652" durationUnit="min" sourceVersion="5.1.2" device="&lt;&lt;HKDevice: 0x2810f0b40&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,4, software:5.1.2&gt;" creationDate="2019-01-22 04:11:19 -0500" startDate="2019-01-22 04:02:42 -0500" endDate="2019-01-22 04:11:18 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="30 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="3800 %"/>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2019-01-22 04:02:42 -0500" endDate="2019-01-22 04:11:18 -0500" sum="27.5594" unit="Cal"/>
+  <WorkoutRoute sourceVersion="12.1.2" creationDate="2019-01-22 04:11:21 -0500" startDate="2019-01-22 04:02:42 -0500" endDate="2019-01-22 04:11:18 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="3C75C3CE-3090-47FD-B042-0CDF35EC6B41"/>
+   <FileReference path="/workout-routes/route_2019-01-22_4.11am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="30 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="3800 %"/>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeRunning" duration="46.3905990322431" durationUnit="min" sourceVersion="5.1.3" device="&lt;&lt;HKDevice: 0x2810f0820&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,4, software:5.1.3&gt;" creationDate="2019-01-29 04:44:41 -0500" startDate="2019-01-29 03:58:17 -0500" endDate="2019-01-29 04:44:40 -0500">
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <MetadataEntry key="HKElevationAscended" value="1842 cm"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 03:58:17 -0500" duration="7.003766892353694" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 03:58:17 -0500" duration="10.9644721865654" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-29 03:58:17 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2019-01-29 03:58:18 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-29 04:00:59 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2019-01-29 04:01:18 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionPaused" date="2019-01-29 04:03:05 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeMotionResumed" date="2019-01-29 04:03:07 -0500"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:05:17 -0500" duration="6.302962656815847" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:09:15 -0500" duration="9.96893102924029" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:11:35 -0500" duration="6.476826192935308" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:18:04 -0500" duration="6.092225213845571" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:19:13 -0500" duration="9.926041789849599" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:24:09 -0500" duration="6.090942762295405" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:29:08 -0500" duration="10.00864920020103" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:30:15 -0500" duration="6.346069306135178" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:36:36 -0500" duration="5.7920445839564" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:39:09 -0500" duration="5.451344265540441" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-01-29 04:42:23 -0500" duration="2.214600863059362" durationUnit="min"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2019-01-29 03:58:17 -0500" endDate="2019-01-29 04:44:40 -0500" sum="468.291" unit="Cal"/>
+ <WorkoutRoute sourceVersion="12.1.3" creationDate="2019-01-29 07:34:28 -0500" startDate="2019-01-29 03:58:16 -0500" endDate="2019-01-29 04:44:40 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="5B6BDB4C-303A-4717-954C-926C2A9A514E"/>
+   <FileReference path="/workout-routes/route_2019-01-29_4.44am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <MetadataEntry key="HKElevationAscended" value="1842 cm"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="8.204261199633281" durationUnit="min" sourceVersion="5.1.3" device="&lt;&lt;HKDevice: 0x2810f0820&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,4, software:5.1.3&gt;" creationDate="2019-01-29 07:46:28 -0500" startDate="2019-01-29 04:45:13 -0500" endDate="2019-01-29 07:46:27 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="41 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9700 %"/>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <WorkoutEvent type="HKWorkoutEventTypePause" date="2019-01-29 04:53:25 -0500"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2019-01-29 04:45:13 -0500" endDate="2019-01-29 07:46:27 -0500" sum="30.559" unit="Cal"/>
+  <WorkoutRoute sourceVersion="12.1.3" creationDate="2019-01-29 17:05:11 -0500" startDate="2019-01-29 04:45:13 -0500" endDate="2019-01-29 04:53:25 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="4BA4BADB-13E5-4024-A58B-2D154D9B98A4"/>
+   <FileReference path="/workout-routes/route_2019-01-29_4.53am.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="41 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="9700 %"/>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="49.13021126786868" durationUnit="min" sourceVersion="5.3" device="&lt;&lt;HKDevice: 0x2810f0550&gt;, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch4,4, software:5.3&gt;" creationDate="2019-08-18 13:15:53 -0500" startDate="2019-08-18 12:26:44 -0500" endDate="2019-08-18 13:15:51 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="82 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7800 %"/>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-08-18 12:26:44 -0500" duration="19.66685633063316" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-08-18 12:26:44 -0500" duration="29.91092175841332" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-08-18 12:46:24 -0500" duration="17.1590616842111" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-08-18 12:56:38 -0500" duration="19.16779748002688" durationUnit="min"/>
+  <WorkoutEvent type="HKWorkoutEventTypeSegment" date="2019-08-18 13:03:33 -0500" duration="12.25280122359594" durationUnit="min"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2019-08-18 12:26:44 -0500" endDate="2019-08-18 13:15:51 -0500" sum="320.718" unit="Cal"/>
+  <WorkoutRoute sourceVersion="13.0" creationDate="2019-08-18 13:27:11 -0500" startDate="2019-08-18 12:26:44 -0500" endDate="2019-08-18 13:15:50 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="FED93191-7D32-45BC-843D-0E4454E0CCE4"/>
+   <FileReference path="/workout-routes/route_2019-08-18_2.15pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="82 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="7800 %"/>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+ </Workout>
+ <Workout workoutActivityType="HKWorkoutActivityTypeWalking" duration="11.32276585102081" durationUnit="min" sourceVersion="5.3.1" device="&lt;&lt;HKDevice: 0x2810f00f0&gt;, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch4,4, software:5.3.1&gt;" creationDate="2019-09-15 13:22:14 -0500" startDate="2019-09-15 13:10:53 -0500" endDate="2019-09-15 13:22:13 -0500">
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="89 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5900 %"/>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+  <WorkoutStatistics type="HKQuantityTypeIdentifierActiveEnergyBurned" startDate="2019-09-15 13:10:53 -0500" endDate="2019-09-15 13:22:13 -0500" sum="11.3331" unit="Cal"/>
+  <WorkoutRoute sourceVersion="13.1" creationDate="2019-09-15 13:57:34 -0500" startDate="2019-09-15 13:11:03 -0500" endDate="2019-09-15 13:22:12 -0500">
+   <MetadataEntry key="HKMetadataKeySyncVersion" value="2"/>
+   <MetadataEntry key="HKMetadataKeySyncIdentifier" value="4586D7A8-6259-44FF-90DD-AFE738214036"/>
+   <FileReference path="/workout-routes/route_2019-09-15_2.22pm.gpx"/>
+  </WorkoutRoute>
+  <MetadataEntry key="HKTimeZone" value="America/New_York"/>
+  <MetadataEntry key="HKWeatherTemperature" value="89 degF"/>
+  <MetadataEntry key="HKWeatherHumidity" value="5900 %"/>
+  <MetadataEntry key="HKIndoorWorkout" value="0"/>
+ </Workout>

@@ -25,5 +25,8 @@
 	],
 	"/sitemap.xml": [
 		"src/routes/sitemap.xml/+server.js"
+	],
+	"/weight": [
+		"src/routes/+layout.js"
 	]
 }
