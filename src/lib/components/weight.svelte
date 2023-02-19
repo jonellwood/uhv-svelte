@@ -3,10 +3,7 @@
 
 	import points from '../chart-data/points.js';
 
-	const yTicks = [
-		135, 140, 145, 155, 160, 165, 170, 175, 180, 185, 190, 195, 200, 205, 210,
-		215,
-	];
+	const yTicks = [130, 140, 150, 160, 170, 180, 190, 200, 210, 220];
 	const xTicks = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70];
 	const padding = { top: 20, right: 5, bottom: 20, left: 5 };
 
@@ -34,6 +31,7 @@
 </script>
 
 <div class="chart" bind:clientWidth={width} bind:clientHeight={height}>
+	<h3>My weight over time</h3>
 	<svg>
 		<!-- y axis -->
 		<g class="axis y-axis" transform="translate(0, {padding.top})">
@@ -62,7 +60,7 @@
 		</g>
 
 		<!-- data -->
-		<!-- <path class="path-area" d={area} /> -->
+		<path class="path-area" d={area} />
 		<path class="path-line" d={path} />
 	</svg>
 </div>
@@ -83,14 +81,14 @@
 	}
 	.chart {
 		margin: 10px;
-		/* border: 2px solid green; */
-		/* box-shadow: 0px 0px 30px 5px darkgreen; */
+		/* border: 2px solid green;
+		box-shadow: 0px 0px 30px 5px darkgreen; */
 	}
 	svg {
 		position: relative;
 		width: 100%;
 		height: 250px;
-		overflow: visible;
+		/* overflow: visible; */
 	}
 
 	.tick {

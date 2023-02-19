@@ -3,7 +3,9 @@
 
 	import points from './data.js';
 
-	const yTicks = [400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400];
+	const yTicks = [
+		300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400,
+	];
 	const xTicks = [2, 4, 6, 8, 10, 12, 14, 16, 18];
 	const padding = { top: 10, right: 5, bottom: 10, left: 15 };
 
@@ -29,8 +31,6 @@
 		return "'" + tick.toString().slice(-2);
 	}
 </script>
-
-<h4>Daily Calories Burned</h4>
 
 <div class="chart" bind:clientWidth={width} bind:clientHeight={height}>
 	<h3>Calories burned per day</h3>
@@ -62,7 +62,7 @@
 		</g>
 
 		<!-- data -->
-		<!-- <path class="path-area" d={area} /> -->
+		<path class="path-area" d={area} />
 		<path class="path-line" d={path} />
 	</svg>
 </div>
@@ -90,7 +90,7 @@
 		position: relative;
 		width: 100%;
 		height: 250px;
-		overflow: visible;
+		/* overflow: visible; */
 	}
 
 	.tick {
