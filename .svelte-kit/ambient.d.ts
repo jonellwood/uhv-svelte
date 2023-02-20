@@ -26,6 +26,7 @@
  * ```
  */
 declare module '$env/static/private' {
+	export const SANITY_API: string;
 	export const LC_FIG_SET_PARENT: string;
 	export const FIG_PID: string;
 	export const MANPATH: string;
@@ -131,6 +132,7 @@ declare module '$env/static/public' {
  */
 declare module '$env/dynamic/private' {
 	export const env: {
+		SANITY_API: string;
 		LC_FIG_SET_PARENT: string;
 		FIG_PID: string;
 		MANPATH: string;
