@@ -1,9 +1,8 @@
 <script>
 	import Activity from '../../lib/components/activity/activity.svelte';
-	// export let data;
+	export let data;
 </script>
 
-<!-- 
 {#if data.workouts && data.workouts.length}
 	<ul class="workout-list">
 		{#each data.workouts as workout}
@@ -17,7 +16,7 @@
 	</ul>
 {:else}
 	<p>No workouts found</p>
-{/if} -->
+{/if}
 
 <div>
 	<Activity />
