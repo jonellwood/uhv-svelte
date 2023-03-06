@@ -9,7 +9,9 @@
 	import { query_selector_all } from 'svelte/internal';
 	import Nav from '$lib/components/nav.svelte';
 
-	let isDarkMode = browser ? Boolean(document.documentElement.classList.contains('dark')) : true;
+	let isDarkMode = browser
+		? Boolean(document.documentElement.classList.contains('dark'))
+		: true;
 
 	function disableTransitionsTemporarily() {
 		document.documentElement.classList.add('[&_*]:transition-none');
@@ -22,8 +24,10 @@
 <Nav />
 <div class="min-h-screen ">
 	<div class="flex-grow w-full px-4 py-2">
-		<header class="items-center justify-between w-full max-w-2xl py-4 mx-auto lg:pb-8">
-			<a class="text-lg font-bold sm:text-2xl !text-green-500 " href="/">
+		<header
+			class="items-center justify-between w-full max-w-2xl py-4 mx-auto lg:pb-8"
+		>
+			<a class="text-sm sm:text-2xl !text-green-500 " href="/">
 				{name}
 			</a>
 			<!-- <button
