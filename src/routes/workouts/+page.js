@@ -8,7 +8,7 @@ const client = createClient({
 });
 
 export async function load({ params }) {
-	const data = await client.fetch(`*[_type == "workout"]`);
+	const data = await client.fetch(`*[_type == "workout"] | order(date desc)`);
 
 	if (data) {
 		return {

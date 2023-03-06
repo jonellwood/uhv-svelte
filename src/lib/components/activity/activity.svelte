@@ -85,6 +85,8 @@
 		margin: 10px;
 		/* border: 2px solid green; */
 		/* box-shadow: 0px 0px 30px 5px darkgreen; */
+		/* position: absolute; */
+		/* right: 0; */
 	}
 	svg {
 		position: relative;
