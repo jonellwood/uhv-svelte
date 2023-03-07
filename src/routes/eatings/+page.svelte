@@ -1,9 +1,4 @@
 <script>
-	// const builder = imageUrlBuilder(client);
-	// function urlFor(source) {
-	// 	return builder.image(source);
-	// }
-	// import imageUrlBuilder from '@sanity/image-url';
 	export let data;
 </script>
 
@@ -46,15 +41,14 @@
 	{/if}
 </div>
 
-this block renders the JSON response from API
+<!-- this block renders the JSON response from API
 {#if data.meals && data.meals.length}
 	<pre>
     {JSON.stringify(data.meals, null, 2)}
 </pre>
 {:else}
 	<p>YOu data will show up here once you have done everything correctly</p>
-{/if}
-
+{/if} -->
 <style>
 	.meal-list {
 		margin-top: 20px;
