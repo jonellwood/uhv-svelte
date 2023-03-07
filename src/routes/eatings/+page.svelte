@@ -37,10 +37,6 @@
 							src="https://cdn.sanity.io/images/u4x6qbfi/production/cd0518365b64ec87c3e3ff5f281c9331b00a383d-3024x4032.jpg?h=200"
 							alt="..."
 						/>
-						<!-- <img
-							src={urlFor(meal.image).width(200).url()}
-							alt={meal.description}
-						/> -->
 					</li>
 				{/if}
 			</ul>
