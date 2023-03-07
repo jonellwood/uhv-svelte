@@ -21,6 +21,7 @@
 	<a href="/"><Logo /></a>
 	<p><a href="/eatings">Eating</a></p>
 	<p><a href="/workouts">Activity</a></p>
+	<p><a href="/meals">OldMeals</a></p>
 	<p>
 		<button
 			type="button"
