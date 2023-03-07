@@ -32,5 +32,13 @@ export default {
       type: 'string',
       title: 'Description of meal',
     },
+    {
+      name: 'image',
+      title: 'Image',
+      type: 'image',
+      options: {
+        hotpot: true,
+      },
+    },
   ],
 }

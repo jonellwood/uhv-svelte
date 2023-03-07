@@ -1,4 +1,9 @@
 <script>
+	// const builder = imageUrlBuilder(client);
+	// function urlFor(source) {
+	// 	return builder.image(source);
+	// }
+	// import imageUrlBuilder from '@sanity/image-url';
 	export let data;
 </script>
 
@@ -26,6 +31,18 @@
 					{meal.calories}
 				</li>
 				<li>{meal.description}</li>
+				{#if meal.image}
+					<li>
+						<img
+							src="https://cdn.sanity.io/images/u4x6qbfi/production/cd0518365b64ec87c3e3ff5f281c9331b00a383d-3024x4032.jpg?h=200"
+							alt="..."
+						/>
+						<!-- <img
+							src={urlFor(meal.image).width(200).url()}
+							alt={meal.description}
+						/> -->
+					</li>
+				{/if}
 			</ul>
 		{/each}
 	{:else}
@@ -33,22 +50,23 @@
 	{/if}
 </div>
 
-<!-- this block renders the JSON response from API
+this block renders the JSON response from API
 {#if data.meals && data.meals.length}
 	<pre>
     {JSON.stringify(data.meals, null, 2)}
 </pre>
 {:else}
 	<p>YOu data will show up here once you have done everything correctly</p>
-{/if} -->
+{/if}
+
 <style>
 	.meal-list {
 		margin-top: 20px;
 		/* border-bottom: 2px solid hotpink; */
 		border-bottom: 2px solid orange;
 		border-left: 2px solid orange;
-		width: 250px;
-		height: 250px;
+		width: 450px;
+		height: 450px;
 		padding-left: 10px;
 		padding-bottom: 10px;
 		padding-top: 10px;
@@ -65,7 +83,7 @@
 	}
 	.container {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-columns: 1fr;
 		gap: 10px;
 		width: 900px;
 	}
