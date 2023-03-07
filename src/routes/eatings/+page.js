@@ -8,7 +8,7 @@ const client = createClient({
 });
 
 export async function load({ params }) {
-	const data = await client.fetch(`*[_type == "meal"] | order(date desc)`);
+	const data = await client.fetch(`*[_type == "meal"] | order(date desc) `);
 
 	if (data) {
 		return {

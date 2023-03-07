@@ -19,7 +19,7 @@
 	<p><a href="/posts">Blog</a></p>
 	<p><a href="/weight">Weight</a></p>
 	<a href="/"><Logo /></a>
-	<p><a href="/meals">Eating</a></p>
+	<p><a href="/eatings">Eating</a></p>
 	<p><a href="/workouts">Activity</a></p>
 	<p>
 		<button
@@ -55,9 +55,10 @@
 	.nav {
 		font-family: Rubik;
 		/* width: 100vw; */
+		max-width: 1080px;
 		margin-top: 0;
-		margin-left: 0;
-		margin-right: 0;
+		margin-left: auto;
+		margin-right: auto;
 		padding-left: 1px;
 		padding-right: 1px;
 		display: grid;
