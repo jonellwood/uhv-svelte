@@ -12,7 +12,7 @@ export default {
         list: [
           {title: 'Breakfast', value: 'breakfast'},
           {title: 'Lunch', value: 'lunch'},
-          {title: 'Diner', value: 'diner'},
+          {title: 'Dinner', value: 'dinner'},
           {title: 'Snack', value: 'snack'},
         ],
       },
