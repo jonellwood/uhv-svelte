@@ -40,7 +40,7 @@ this block renders the JSON response from API
 <style>
 	.meal-list {
 		margin-top: 20px;
-		border: 1px solid hotpink;
+		/* border: 1px solid hotpink; */
 		width: 250px;
 		height: 250px;
 	}
