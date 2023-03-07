@@ -21,7 +21,7 @@
 	<a href="/"><Logo /></a>
 	<p><a href="/eatings">Eating</a></p>
 	<p><a href="/workouts">Activity</a></p>
-	<p><a href="/meals">OldMeals</a></p>
+	<p class="hidden"><a href="/meals">OldMeals</a></p>
 	<p>
 		<button
 			type="button"
@@ -72,5 +72,8 @@
 	.nav p {
 		align-self: center;
 		font-size: 1.75em;
+	}
+	.hidden {
+		display: none;
 	}
 </style>
