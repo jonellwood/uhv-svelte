@@ -15,12 +15,16 @@
 	}
 </script>
 
-<div class="nav">
-	<p><a href="/posts">Blog</a></p>
-	<p><a href="/weight">Weight</a></p>
+<div class="nav" id="nav">
+	<div class="left-side">
+		<p><a href="/posts">Blog</a></p>
+		<p><a href="/weight">Weight</a></p>
+	</div>
 	<a href="/"><Logo /></a>
-	<p><a href="/eatings">Eating</a></p>
-	<p><a href="/workouts">Activity</a></p>
+	<div class="right-side">
+		<p><a href="/eatings">Eating</a></p>
+		<p><a href="/workouts">Activity</a></p>
+	</div>
 	<p class="hidden"><a href="/meals">OldMeals</a></p>
 	<p>
 		<button
@@ -37,8 +41,10 @@
 
 				if (isDarkMode) {
 					document.querySelector('html').classList.add('dark');
+					document.getElementById('nav').classList.add('dark');
 				} else {
 					document.querySelector('html').classList.remove('dark');
+					document.getElementById('nav').classList.remove('dark');
 				}
 			}}
 		>
@@ -54,6 +60,7 @@
 		src: url('../../../fonts/Rubik/Rubik-VariableFont_wght.ttf');
 	}
 	.nav {
+		/* background-color: antiquewhite; */
 		font-family: Rubik;
 		/* width: 100vw; */
 		max-width: 1080px;
@@ -63,17 +70,35 @@
 		padding-left: 1px;
 		padding-right: 1px;
 		display: grid;
-		grid-template-columns: 1fr 1fr 5fr 1fr 1fr 1fr;
-		background-color: #1c1626;
+		/* grid-template-columns: 2fr 5fr 2fr 1fr; */
+		grid-template-columns: 20% 55% 20% 5%;
 		color: bisque;
 		justify-content: center;
 		justify-items: center;
 	}
+
 	.nav p {
 		align-self: center;
 		font-size: 1.75em;
 	}
 	.hidden {
 		display: none;
+	}
+
+	.left-side {
+		display: grid;
+		gap: 20px;
+		/* margin-left: 50px; */
+		margin-top: auto;
+		margin-bottom: auto;
+		justify-content: center;
+	}
+	.right-side {
+		display: grid;
+		gap: 20px;
+		/* margin-right: 50px; */
+		margin-top: auto;
+		margin-bottom: auto;
+		justify-content: center;
 	}
 </style>

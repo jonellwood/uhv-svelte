@@ -28,6 +28,7 @@
 		display: grid;
 		grid-template-rows: 50% 1fr 1fr;
 		align-content: center;
+		border-radius: 50%;
 	}
 	.est {
 		position: relative;
