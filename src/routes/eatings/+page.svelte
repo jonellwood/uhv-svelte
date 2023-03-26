@@ -5,9 +5,12 @@
 </script>
 
 <h4>
-	This is my attempt to log my eating for each meal of the day. The calories are
-	my best estimation and while I am sure they are not 100% accurate- I can see
-	value in using the caloric values for tracking trends.
+	Initially I intended on logging each of my meals along with time of day and
+	calories on this page. I even built a little "meal" component to add them
+	easily... Guess what? It's a chore! AND.... I eat nearly the same thing most
+	days. So instead I am going to use this space to write about any meals I have
+	that enjoy, or did not enjoy, or whatever else I feel like writing about as it
+	pertains to my meals... so there!
 </h4>
 <div class="container">
 	{#if data.meals && data.meals.length}
